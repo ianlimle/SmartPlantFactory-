@@ -25,4 +25,5 @@ Running the above outputs:
 3. png image of training process (plot.png)
 
 (To load the model, label binarizer file)
+
 2. Run python plantgrowthmodelv3.py on Raspberry Pi 
