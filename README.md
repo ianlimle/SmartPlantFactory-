@@ -16,7 +16,7 @@ The CNN architecture (smallervggnet.py) used here is a smaller compact variant o
 3. Fully-connected layers at the end of a nextwork prior to a softmax layer
 
 # Usage
-(To train the neural network)
+## To train the neural network
 1. Run python train.py --dataset name_of_your_input_dataset --model name_of_your_output_model_file --labelbin name_of_your_output_label_binarizer_file on your terminal
 
 Running the above outputs:
@@ -24,6 +24,6 @@ Running the above outputs:
 2. pickle file (that stores the binarized labels for your classes)
 3. png image of training process (plot.png)
 
-(To load the model, label binarizer file)
+## To load the model, label binarizer file
 
 2. Run python plantgrowthmodelv3.py on Raspberry Pi 
